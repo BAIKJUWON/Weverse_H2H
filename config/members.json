@@ -1,0 +1,94 @@
+{
+  "_comment": "Hearts2Hearts 멤버 고정 식별자 매핑 파일. member_id/profile_url은 실행 후 '멤버 식별자 확인' 단계에서 자동으로 채워집니다. 위버스 표시 닉네임(aliases)은 참고용 보조 수단일 뿐이며, 식별자가 채워진 뒤에는 member_id를 최우선으로 사용합니다.",
+  "community_slug": "hearts2hearts",
+  "official_account": {
+    "name": "Hearts2Hearts",
+    "member_id": null,
+    "profile_url": null,
+    "aliases": [
+      "HEARTS2HEARTS",
+      "Hearts2Hearts",
+      "하츠투하츠",
+      "공식",
+      "OFFICIAL"
+    ]
+  },
+  "members": [
+    {
+      "name": "CARMEN",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "CARMEN",
+        "카르멘"
+      ]
+    },
+    {
+      "name": "JIWOO",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "JIWOO",
+        "지우"
+      ]
+    },
+    {
+      "name": "YUHA",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "YUHA",
+        "유하"
+      ]
+    },
+    {
+      "name": "STELLA",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "STELLA",
+        "스텔라"
+      ]
+    },
+    {
+      "name": "JUUN",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "JUUN",
+        "준",
+        "주은"
+      ]
+    },
+    {
+      "name": "A-NA",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "A-NA",
+        "ANA",
+        "아나",
+        "에이나"
+      ]
+    },
+    {
+      "name": "IAN",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "IAN",
+        "이안"
+      ]
+    },
+    {
+      "name": "YE-ON",
+      "member_id": null,
+      "profile_url": null,
+      "aliases": [
+        "YE-ON",
+        "YEON",
+        "예온"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "download_root": "./Hearts2Hearts_Archive",
+  "browser_profile": "./data/chrome_profile",
+  "community_slug": "hearts2hearts",
+  "scan_mode": "latest",
+  "recent_post_limit": 10,
+  "consecutive_seen_stop_count": 5,
+  "download_original": true,
+  "retry_count": 3,
+  "request_min_interval_sec": 1.5,
+  "members_config_path": "./data/members_runtime.json",
+  "database_path": "./data/archive.db",
+  "debug_capture_api": false
+}
